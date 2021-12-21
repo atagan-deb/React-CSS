@@ -5,6 +5,8 @@ import { StyledComponents } from "./components/StyledComponents";
 import { StyledJsx } from "./components/StyledJsx";
 import "./styles.css";
 
+// cssの当て方について学習！
+
 export default function App() {
   return (
     <div className="App">
